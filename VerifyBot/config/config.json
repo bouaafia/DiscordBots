@@ -1,0 +1,18 @@
+{
+  "emoji_urls": {
+    "verify": "https://cdn3.emoji.gg/emojis/2155-verify-green.gif",
+    "solve": "https://cdn3.emoji.gg/emojis/3863_gearz.gif"
+  },
+  "application_emojis": {
+    "verify": {
+      "id": "1432504649730232402",
+      "name": "verify_green",
+      "animated": true
+    },
+    "solve": {
+      "id": "1432504653198921861",
+      "name": "solve_gear",
+      "animated": true
+    }
+  }
+}
